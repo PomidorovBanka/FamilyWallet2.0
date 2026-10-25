@@ -1,0 +1,12 @@
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\bin\Debug\net8.0\FamilyWallet.Core.deps.json
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\bin\Debug\net8.0\FamilyWallet.Core.dll
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\bin\Debug\net8.0\FamilyWallet.Core.pdb
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.AssemblyInfoInputs.cache
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.AssemblyInfo.cs
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.csproj.CoreCompileInputs.cache
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.sourcelink.json
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.dll
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\refint\FamilyWallet.Core.dll
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\FamilyWallet.Core.pdb
+D:\VS Community\Git\FamilyWallet_2\FamilyWallet2.0\FamilyWallet.Core\obj\Debug\net8.0\ref\FamilyWallet.Core.dll
