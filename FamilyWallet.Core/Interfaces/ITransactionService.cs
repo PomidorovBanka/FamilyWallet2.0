@@ -1,4 +1,7 @@
 namespace FamilyWallet.Core.Interfaces
+
+// Клас із інформацією про транзакцію
+
 {
     public interface ITransactionService
     {
