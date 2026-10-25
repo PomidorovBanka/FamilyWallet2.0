@@ -1,5 +1,7 @@
 using System;
 
+// Клас із інформацією про транзакцію
+
 namespace FamilyWallet.Core.Models
 {
     public class TransactionModel
