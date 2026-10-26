@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyWallet.Core", "FamilyWallet.Core\FamilyWallet.Core.csproj", "{37D88F14-3390-4697-A733-C990020A5152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyWallet.App", "FamilyWallet.App\FamilyWallet.App.csproj", "{E3A2C4BE-EAA3-4579-B14E-44808008CD74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{37D88F14-3390-4697-A733-C990020A5152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D88F14-3390-4697-A733-C990020A5152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D88F14-3390-4697-A733-C990020A5152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A2C4BE-EAA3-4579-B14E-44808008CD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A2C4BE-EAA3-4579-B14E-44808008CD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A2C4BE-EAA3-4579-B14E-44808008CD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A2C4BE-EAA3-4579-B14E-44808008CD74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
