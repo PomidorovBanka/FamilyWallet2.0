@@ -1,5 +1,7 @@
 using System;
 
+//Клас із інформацією про користувача
+
 namespace FamilyWallet.Core.Models
 {
     public class UserModel

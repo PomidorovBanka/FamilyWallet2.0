@@ -1,5 +1,7 @@
 using System;
 
+// Клас із інформацією про фінансову ціль користувача
+
 namespace FamilyWallet.Core.Models
 {
     public class FinancialGoalModel
